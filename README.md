@@ -97,3 +97,4 @@ $m = 2, \quad \Rightarrow$
 
 ![My Image](images/nk14.png)
 
+![My Image](images/nk15.png)
