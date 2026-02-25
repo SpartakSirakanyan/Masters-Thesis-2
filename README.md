@@ -65,7 +65,7 @@ $[x_1, \ldots, x_k]$
 $m = 2, \quad \Rightarrow$
 ![My Image](images/nk7.png)
 
-
+ենթադրենք , որ  k=m բանաձևը ճիշտ է, ապացուցենք այն k=m+1-ի դեպքում.
 
 
 
