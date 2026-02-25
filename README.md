@@ -66,7 +66,7 @@ $m = 2, \quad \Rightarrow$
 ![My Image](images/nk7.png)
 
 ենթադրենք , որ  k=m բանաձևը ճիշտ է, ապացուցենք այն k=m+1-ի դեպքում.
-
+![My Image](images/nk8.png)
 
 
 
