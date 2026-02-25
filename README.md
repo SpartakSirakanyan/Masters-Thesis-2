@@ -122,3 +122,5 @@ $m = 2, \quad \Rightarrow$
 ![My Image](images/nk19.png)
 
 Կազմենք բաժանված տարբերությունների աղյուսակը. 
+
+![My Image](images/nk20.png)
