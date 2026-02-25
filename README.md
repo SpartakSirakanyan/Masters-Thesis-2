@@ -126,3 +126,5 @@ $m = 2, \quad \Rightarrow$
 ![My Image](images/nk20.png)
 
 Այժմ կազմենք Նյուտոնի 3-րդ կարգի ինտերպոլյացիոն բազմանդամը, և ածանցենք.
+
+![My Image](images/nk21.png)
