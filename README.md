@@ -119,3 +119,6 @@ $m = 2, \quad \Rightarrow$
 
 Ենթադրենք տրված է հետևյալ տվյալները.
 
+![My Image](images/nk19.png)
+
+
