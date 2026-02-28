@@ -137,11 +137,22 @@ $h$ –ը իրենից ներկայացնում է ցանցի քայլը, որը
 
 ![My Image](images/nk137.png)
 
+**Քայլ 5.**  
+Հինգերորդ քայլով, հաշվենք բոլոր $U_{(i,j)}$ –երը, օգտվելով հետևյալ բանաձևից.`
 
+![My Image](images/nk138.png)
 
+Որտեղ նորից $i = 1,2,3$, $j = 1,2,3$, իսկ եզրային հանգույցներում $U_{(i,j)}$–երը հավասար է $0$–ի։
 
+![My Image](images/nk139.png)
 
+![My Image](images/nk140.png)
 
+![My Image](images/nk141.png)
+
+![My Image](images/nk142.png)
+
+![My Image](images/nk143.png)
 
 
 
