@@ -64,17 +64,20 @@ $i$–ն տարածական ցանցի ինդեքսն է, իսկ $n$–ը ժամ
 
 ![My Image](images/nk74.png)
 
+**Քայլ 2.**  
+Այժմ, մինչ $U_1^1, U_2^1, U_3^1, U_4^1$ արժեքներին անցնելը, հաշվենք $\lambda$–ն և $Q_i^n$ արժեքները (Աղյուսակ 4.1), քանի որ հետագա բոլոր հաշվարկներում միշտ պետք է գալու.
 
+![My Image](images/nk75.png)
 
+![My Image](images/nk76.png)
 
+![My Image](images/nk77.png)
 
+![My Image](images/nk78.png)
 
+![My Image](images/nk79.png)
 
-
-
-
-
-
+![My Image](images/nk80.png)
 
 
 
